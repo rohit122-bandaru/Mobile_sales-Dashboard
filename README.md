@@ -40,8 +40,7 @@ This repository contains a Power BI Dashboard Template (`.pbit`) designed to ana
 
 ##  Screenshot
 
-_Add a screenshot here of the dashboard UI (optional)._
-
+<img width="1379" height="783" alt="Image" src="https://github.com/user-attachments/assets/af38ef2b-bbd1-4f32-a95e-fbf72129e501" />
 ##  Use Cases
 
 - Sales tracking
