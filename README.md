@@ -1,6 +1,6 @@
 # Mobile_sales-Dashboard
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+##### ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
 
 ##  Project Overview
 
@@ -41,6 +41,7 @@ This repository contains a Power BI Dashboard Template (`.pbit`) designed to ana
 ##  Screenshot
 
 <img width="1379" height="783" alt="Image" src="https://github.com/user-attachments/assets/af38ef2b-bbd1-4f32-a95e-fbf72129e501" />
+
 ##  Use Cases
 
 - Sales tracking
@@ -57,8 +58,10 @@ This repository contains a Power BI Dashboard Template (`.pbit`) designed to ana
 ## Contact
 
 **Author**: Bandaru Rohit  
+
 **LinkedIn**:www.linkedin.com/in/bandaru-rohit 
+
 **Email**: bandarurohit09@gmail.com
 
----
+
 
