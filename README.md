@@ -1,6 +1,7 @@
 # Mobile_sales-Dashboard
 
-##### ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="100"/>
+
 
 ##  Project Overview
 
@@ -28,7 +29,7 @@ This repository contains a Power BI Dashboard Template (`.pbit`) designed to ana
   - `Region`
   - `Product`
   - `Customer Segment`
-  - `Profit` (optional)
+  - `Profit` 
 
 ##  How to Use
 
